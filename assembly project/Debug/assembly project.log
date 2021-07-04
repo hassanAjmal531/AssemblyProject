@@ -1,0 +1,18 @@
+﻿  Assembling Source.asm...
+Source.asm(64): error A2008: syntax error : str
+Source.asm(77): error A2008: syntax error
+Source.asm(57): error A2101: cannot add two relocatable labels
+Source.asm(61): error A2101: cannot add two relocatable labels
+Source.asm(66): error A2022: instruction operands must be the same size
+Source.asm(72): error A2022: instruction operands must be the same size
+Source.asm(98): error A2022: instruction operands must be the same size
+Source.asm(99): error A2206: missing operator in expression
+Source.asm(104): error A2022: instruction operands must be the same size
+Source.asm(174): error A2101: cannot add two relocatable labels
+Source.asm(175): error A2101: cannot add two relocatable labels
+Source.asm(21): error A2084: constant value too large
+Source.asm(22): error A2138: invalid data initializer
+Source.asm(24): error A2084: constant value too large
+Source.asm(25): error A2084: constant value too large
+Source.asm(26): error A2084: constant value too large
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /I "C:\Program Files (x86)\irvine" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.
